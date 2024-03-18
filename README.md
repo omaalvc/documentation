@@ -2,9 +2,10 @@
 
 ## Development used tools:
 
- - Go v1.17
- - Gin Gonic v1.8.1
+ - Go 1.21
+ - Gin Gonic v1.9.1
  - Wire v0.5.0
+ - Swaggo v1.6.0
 
 ## Startup :vertical_traffic_light:
 
